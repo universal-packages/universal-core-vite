@@ -1,0 +1,5 @@
+default:
+  appsLocation: ./tests/__fixtures__/client-apps
+  server:
+    port: 8989
+    host: localhost
